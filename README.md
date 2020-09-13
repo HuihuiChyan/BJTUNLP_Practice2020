@@ -14,7 +14,7 @@
 
 模型图：
 
-<img src='./TextCNN.PNG' width='800' align="middle">
+<img src='./TextCNN.PNG' width='800' align="center">
 
 需要了解的知识点：
 
@@ -38,7 +38,7 @@
 
 模型图：
 
-<img src='./BiLSTM&CRF.PNG' width='400' align="middle">
+<img src='./BiLSTM&CRF.PNG' width='400' align="center">
 
 需要了解的知识点：
 
@@ -53,7 +53,7 @@
 
 ### 任务三：基于ESIM的文本匹配
 
-输入两个句子，判断它们之间的关系。参考[ESIM]( https://arxiv.org/pdf/1609.06038v3.pdf)（可以只用LSTM，忽略Tree-LSTM），用双向的注意力机制实现。
+输入两个句子，判断它们之间的关系。参考ESIM（可以只用LSTM，忽略Tree-LSTM），用双向的注意力机制实现。
 
 数据集：https://nlp.stanford.edu/projects/snli/
 
@@ -61,7 +61,7 @@
 
 模型图：
 
-<img src='./ESIM.png' width='800'>
+<img src='./ESIM.png' width='700' align="center">
 
 知识点：
 
@@ -81,7 +81,7 @@ Bert可以用来进行分类、标注、匹配等多种自然语言理解任务�
 
 模型图：
 
-<img src='./BERT.jpg' width='800' align="middle">
+<img src='./BERT.jpg' width='650' align="center">
 
 知识点：
 
