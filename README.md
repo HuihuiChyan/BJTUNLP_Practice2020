@@ -14,7 +14,7 @@
 
 模型图：
 
-<img src='./TextCNN.png' width='800'>
+<img src='./TextCNN.PNG' width='800'>
 
 需要了解的知识点：
 
