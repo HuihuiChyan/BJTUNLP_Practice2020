@@ -14,7 +14,7 @@
 
 模型图：
 
-![TextCNN](./TextCNN.PNG)
+<img src='./BiLSTM&CRF.png' width='375'>
 
 需要了解的知识点：
 
