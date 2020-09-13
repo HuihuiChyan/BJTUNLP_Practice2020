@@ -14,7 +14,7 @@
 
 模型图：
 
-![TextCNN](C:\Users\Hui_Huang\Desktop\TextCNN.PNG)
+![TextCNN](./TextCNN.PNG)
 
 需要了解的知识点：
 
