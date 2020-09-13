@@ -14,7 +14,7 @@
 
 模型图：
 
-<img src='./BiLSTM&CRF.png' width='375'>
+<img src='./BiLSTM&CRF.PNG' width='375'>
 
 需要了解的知识点：
 
