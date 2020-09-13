@@ -1,4 +1,4 @@
-说明：
+写在前面：
 
 1. 全体研一的同学，需要完成以下四个任务，每个任务大约会给一个月的时间；
 2. 在模型写完并完成训练后，请联系我获取测试集，然后用自己训好的模型推断获得结果，处理成要求的格式，连同代码一并发给我；
@@ -38,7 +38,7 @@
 
 模型图：
 
-![BiLSTM&CRF](C:\Users\Hui_Huang\Desktop\BiLSTM&CRF.PNG)
+![BiLSTM&CRF](./BiLSTM&CRF.PNG)
 
 需要了解的知识点：
 
@@ -61,7 +61,7 @@
 
 模型图：
 
-![ESIM](C:\Users\Hui_Huang\Desktop\ESIM.png)
+![ESIM](./ESIM.png)
 
 知识点：
 
@@ -78,6 +78,10 @@ Bert可以用来进行分类、标注、匹配等多种自然语言理解任务�
 建议使用的框架：Huggingface，https://github.com/huggingface/transformers
 
 参考论文：BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding，https://arxiv.org/abs/1810.04805
+
+模型图：
+
+![BERT](./BERT.jpg)
 
 知识点：
 
