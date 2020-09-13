@@ -14,7 +14,7 @@
 
 模型图：
 
-<img src='./BiLSTM&CRF.PNG' width='375'>
+<img src='./TextCNN.png' width='800'>
 
 需要了解的知识点：
 
@@ -38,7 +38,7 @@
 
 模型图：
 
-![BiLSTM&CRF](./BiLSTM&CRF.PNG)
+<img src='./BiLSTM&CRF.PNG' width='500'>
 
 需要了解的知识点：
 
@@ -61,7 +61,7 @@
 
 模型图：
 
-![ESIM](./ESIM.png)
+<img src='./ESIM.png' width='800'>
 
 知识点：
 
@@ -81,7 +81,7 @@ Bert可以用来进行分类、标注、匹配等多种自然语言理解任务�
 
 模型图：
 
-![BERT](./BERT.jpg)
+<img src='./BERT.jpg' width='500'>
 
 知识点：
 
