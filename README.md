@@ -14,7 +14,7 @@
 
 模型图：
 
-<img src='./TextCNN.PNG' width='800'>
+<img src='./TextCNN.PNG' width='800' align="middle">
 
 需要了解的知识点：
 
@@ -38,7 +38,7 @@
 
 模型图：
 
-<img src='./BiLSTM&CRF.PNG' width='500'>
+<img src='./BiLSTM&CRF.PNG' width='400' align="middle">
 
 需要了解的知识点：
 
@@ -81,7 +81,7 @@ Bert可以用来进行分类、标注、匹配等多种自然语言理解任务�
 
 模型图：
 
-<img src='./BERT.jpg' width='500'>
+<img src='./BERT.jpg' width='800' align="middle">
 
 知识点：
 
