@@ -28,6 +28,8 @@
 1. 训练集25000句，验证集25000句，需要自己写脚本合在一起；
 2. 测试结果格式：每行对应一句话的分类结果；
 
+当前的SOTA排名：https://github.com/sebastianruder/NLP-progress/blob/master/english/sentiment_analysis.md
+
 ### 任务二：基于BiLSTM+CRF的序列标注
 
 用BiLSTM+CRF来训练序列标注模型，以Named Entity Recognition为例。
@@ -51,6 +53,8 @@
 1. 训练集(train)、验证集(testa)、测试集(testb)已经分割好了，但是你仅使用训练集和验证集即可，最后我会再给你一个测试集；
 2. 测试结果格式：每行对应一个词的标注结果，不同句之间用空行相分割；
 
+当前的SOTA排名：https://github.com/sebastianruder/NLP-progress/blob/master/english/named_entity_recognition.md
+
 ### 任务三：基于ESIM的文本匹配
 
 输入两个句子，判断它们之间的关系。参考ESIM（可以只用LSTM，忽略Tree-LSTM），用双向的注意力机制实现。
@@ -70,6 +74,8 @@
 说明：
 
 1. 测试结果格式：每行对应一个句对的匹配结果；
+
+当前的SOTA排名：https://nlp.stanford.edu/projects/snli/
 
 ### 任务四：基于Bert的自然语言理解
 
