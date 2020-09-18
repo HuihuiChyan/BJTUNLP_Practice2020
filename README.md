@@ -25,7 +25,8 @@
 
 说明：
 
-1. 训练集25000句，验证集25000句，需要自己写脚本合在一起；
+1. 训练集25000句，测试集25000句，需要自己写脚本合在一起；
+2. 请将训练集用于训练，测试集用于验证，最后我会再给你一个测试集；
 2. 测试结果格式：每行对应一句话的分类结果；
 
 当前的SOTA排名：https://github.com/sebastianruder/NLP-progress/blob/master/english/sentiment_analysis.md
@@ -50,8 +51,9 @@
 
 说明：
 
-1. 训练集(train)、验证集(testa)、测试集(testb)已经分割好了，但是你仅使用训练集和验证集即可，最后我会再给你一个测试集；
-2. 测试结果格式：每行对应一个词的标注结果，不同句之间用空行相分割；
+1. 训练集、验证集、测试集已经分割好了，但是你仅使用训练集和验证集即可，最后我会再给你一个测试集；
+2. 如果数据下不下来，这个目录里有现成的数据：https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification ；
+3. 测试结果格式：每行对应一个词的标注结果，不同句之间用空行相分割；
 
 当前的SOTA排名：https://github.com/sebastianruder/NLP-progress/blob/master/english/named_entity_recognition.md
 
