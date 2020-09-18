@@ -8,7 +8,7 @@
 
 ### 任务一：基于TextCNN的文本分类
 
-数据集：[Classify the sentiment of sentences from the Rotten Tomatoes dataset](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) 
+数据集：[Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/) 
 
 参考论文：Convolutional Neural Networks for Sentence Classification，https://arxiv.org/abs/1408.5882
 
@@ -73,7 +73,7 @@
 
 ### 任务四：基于Bert的自然语言理解
 
-Bert可以用来进行分类、标注、匹配等多种自然语言理解任务。这里需要用Bert重新实现上述三个任务中的任意一个。（难度：任务一 > 任务三 > 任务二）
+Bert可以用来进行分类、标注、匹配等多种自然语言理解任务。这里需要用Bert重新实现上述三个任务中的任意一个。（难度：任务一 < 任务三 < 任务二）
 
 建议使用的框架：Huggingface，https://github.com/huggingface/transformers
 
