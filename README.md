@@ -13,6 +13,8 @@
 
 参考论文：Convolutional Neural Networks for Sentence Classification，https://arxiv.org/abs/1408.5882
 
+模型图：<img src="TextCNN.PNG" width="400"> 
+
 需要了解的知识点：
 
 1. 文本特征表示：词向量
@@ -36,6 +38,8 @@
 
 参考论文：Neural Architectures for Named Entity Recognition，<https://arxiv.org/pdf/1603.01360.pdf> 
 
+模型图：<img src="BiLSTM&CRF.PNG" width="400"> 
+
 需要了解的知识点：
 
 1. RNN如何提取文本的特征
@@ -57,6 +61,8 @@
 数据集：https://nlp.stanford.edu/projects/snli/
 
 参考论文：Enhanced LSTM for Natural Language Inference，<https://arxiv.org/pdf/1609.06038v3.pdf>
+
+模型图：<img src="ESIM.png" width="600"> 
 
 知识点：
 
