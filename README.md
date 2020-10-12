@@ -13,7 +13,7 @@
 
 参考论文：Convolutional Neural Networks for Sentence Classification，https://arxiv.org/abs/1408.5882
 
-模型图：<img src="TextCNN.PNG" width="400"> 
+模型图：<img src="TextCNN.PNG" width="500"> 
 
 需要了解的知识点：
 
@@ -83,7 +83,7 @@ Bert可以用来进行分类、标注、匹配等多种自然语言理解任务�
 
 参考论文：BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding，https://arxiv.org/abs/1810.04805
 
-模型图：<img src="BERT.jpg" width="400"> 
+模型图：<img src="BERT.jpg" width="550"> 
 
 知识点：
 
