@@ -13,7 +13,8 @@
 
 参考论文：Convolutional Neural Networks for Sentence Classification，https://arxiv.org/abs/1408.5882
 
-模型图：<img src="TextCNN.PNG" width="500"> 
+模型图：
+<img src="TextCNN.PNG" width="550"> 
 
 需要了解的知识点：
 
@@ -38,7 +39,8 @@
 
 参考论文：Neural Architectures for Named Entity Recognition，<https://arxiv.org/pdf/1603.01360.pdf> 
 
-模型图：<img src="BiLSTM&CRF.PNG" width="400"> 
+模型图：
+<img src="BiLSTM&CRF.PNG" width="350"> 
 
 需要了解的知识点：
 
