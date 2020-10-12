@@ -14,6 +14,7 @@
 参考论文：Convolutional Neural Networks for Sentence Classification，https://arxiv.org/abs/1408.5882
 
 模型图：
+
 <img src="TextCNN.PNG" width="550"> 
 
 需要了解的知识点：
