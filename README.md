@@ -15,7 +15,7 @@
 
 模型图：
 
-<img src="TextCNN.PNG" width="550"> 
+<img src="TextCNN.PNG" width="600"> 
 
 需要了解的知识点：
 
@@ -41,6 +41,7 @@
 参考论文：Neural Architectures for Named Entity Recognition，<https://arxiv.org/pdf/1603.01360.pdf> 
 
 模型图：
+
 <img src="BiLSTM&CRF.PNG" width="350"> 
 
 需要了解的知识点：
@@ -65,7 +66,9 @@
 
 参考论文：Enhanced LSTM for Natural Language Inference，<https://arxiv.org/pdf/1609.06038v3.pdf>
 
-模型图：<img src="ESIM.png" width="600"> 
+模型图：
+
+<img src="ESIM.png" width="600"> 
 
 知识点：
 
@@ -86,7 +89,9 @@ Bert可以用来进行分类、标注、匹配等多种自然语言理解任务�
 
 参考论文：BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding，https://arxiv.org/abs/1810.04805
 
-模型图：<img src="BERT.jpg" width="550"> 
+模型图：
+
+<img src="BERT.jpg" width="550"> 
 
 知识点：
 
