@@ -81,7 +81,7 @@
 
 ### 任务二：基于BiLSTM+CRF的序列标注
 
-用BiLSTM+CRF来训练序列标注模型，以Named Entity Recognition为例。
+用BiLSTM+CRF来训练序列标注模型，以Named Entity Recognition为例。如果CRF你搞不明白，那就只用BiLSTM也行。
 
 数据集：CONLL 2003，https://www.clips.uantwerpen.be/conll2003/ner/
 
